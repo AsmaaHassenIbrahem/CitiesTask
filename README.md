@@ -1,6 +1,6 @@
 # CitiesTask
-using MVVM archticure 
-kotlin , navigation jetpack compose
-data binding
-coroutines
-Koin 
+ <ins> using MVVM archticure  </ins>
+ <ins> kotlin , navigation jetpack compose  </ins>
+ <ins> data binding  </ins>
+ <ins> coroutines  </ins>
+ <ins> Koin  </ins>
