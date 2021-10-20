@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/citiesFragment">
+
+    <fragment
+        android:id="@+id/citiesFragment"
+        android:name="asma.cities.coordinates.feature.cities.CitiesFragment"
+        android:label="Cities"
+        tools:layout="@layout/fragment_cities" >
+        <action
+            android:id="@+id/action_citiesFragment_to_boundariesFragment"
+            app:destination="@id/boundariesFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/boundariesFragment"
+        android:name="asma.cities.coordinates.feature.Polygon.BoundariesFragment"
+        android:label="Boundaries"
+        tools:layout="@layout/fragment_boundaries" />
+</navigation>

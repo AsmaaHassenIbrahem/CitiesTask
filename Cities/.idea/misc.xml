@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.10891089108910891" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.12552083333333333" />
+        <entry key="app/src/main/res/layout/fragment_boundaries.xml" value="0.11197916666666667" />
+        <entry key="app/src/main/res/layout/fragment_cities.xml" value="0.10885416666666667" />
+        <entry key="app/src/main/res/layout/item_city.xml" value="0.14447463768115942" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
